@@ -1,0 +1,157 @@
+﻿.body
+{
+	background-image: url("./final.jpg");
+    
+	background-repeat: no-repeat;
+	
+   
+}
+.h1
+{
+	color: #a4649d;
+	font-size: 55px;
+	margin-top: 50px;
+	margin-left: 750px;
+	font-family: Gabriola;
+	font-weight: bold;
+}
+.h3
+{
+	color: #a4649d;
+	font-size: 35px;
+	margin-top: 50px;
+	margin-left: 750px;
+	font-family: Gabriola;
+	font-weight: bold;
+}
+.car_tbl
+{
+	width: 60%;
+	height: 350px;
+	margin-left: 300px;
+    font-weight: 900;
+	margin-top: 50px;
+}
+.car_td1
+{
+	color: #a4649d;
+	font-family: Ink Free;
+    font-weight: 900;
+	font-size: 25px;
+}
+.song_input:hover
+{	
+	
+	border-radius: 50px 25px;
+	height: 25px;
+	width: 180px;
+     border: 1px solid;
+    border-color:#a4649d;
+
+}
+.song_input
+{	
+	border: none;
+	border-radius: 00px;
+	height: 35px;
+	width: 180px;
+    margin-left: 750px;
+	font-family: Gabriola;
+    border: 1px solid;
+    border-color: #a4649d;
+     
+}
+.song_input1:hover
+{
+	height: 100px;
+	width: 180px;
+		border-radius: 50px 25px;
+		border :none;
+
+}
+.song_input1
+{
+	height: 100px;
+	width: 180px;
+	border: none;
+}
+.song_btn
+{
+	height: 50px;
+	width: 170px;
+	margin-left: 130px;
+	margin-top: 30px;
+	border:none;
+    margin-left: 750px;
+	font-family: Gabriola;
+    font-size: 35px;
+    color:white;
+    border: 2px solid;
+    border-color: #a4649d;
+    border-radius: 50px;
+    
+     
+}
+.ab{
+    
+	color: #a4649d;
+	font-size: 25px;
+	padding-left:20px;
+	margin-left: 750px;
+	font-family: Gabriola;
+	font-weight: bold;
+}
+.abc{
+
+    color: 	hotpink;
+	font-family: Ink Free;
+    font-weight: 900;
+	font-size: 25px;
+    text-decoration:none;
+   
+
+}
+.listbox
+{
+    color: #a4649d;
+	font-size: 25px;
+    height:100px;
+	display: inline-block;
+    float:left;
+	margin-left: 750px;
+	font-family: Gabriola;
+	font-weight: bold;
+}
+.ff1{
+
+    color: #a4649d;
+	font-size: 25px;
+	display: inline-block;
+    float:left;
+	
+	font-family: Gabriola;
+	font-weight: bold;
+     height:100px;
+    float:left;
+    display:inline-block;
+    margin-left:10px;
+}
+
+.ff
+{
+    float:left;
+    display:inline-block;
+    margin-left:10px;
+}
+
+.song_btn:hover
+{
+	height: 50px;
+	width: 180px;
+	margin-left: 750px;
+	margin-top: 30px;
+	border:none;
+	border-radius: 50px;
+    font-size: 30px;
+
+}

@@ -1,0 +1,350 @@
+﻿.header_div
+{
+	width: 100%;
+	height: 100px;
+	/*background: linear-gradient(to bottom right, #ffffff 0%, #ff99cc 100%);*/
+	background: linear-gradient(to top left, #816796 0%, #b662a1 65%);
+	box-shadow: 5px 5px 18px #888888;
+	float: left;
+}
+.header_div_text
+{
+	width: 20%;
+	height: 90px;
+	margin-left: 35px;
+	float: left;
+}
+.div_text
+{
+	font-size: 40px;
+	font-family: Century Gothic;
+	font-weight: bold;
+	color: #d9d9d9;
+}
+.div_text2
+{
+	margin-top: -20px;
+	margin-left: 5px;
+	font-size: 23px;
+	font-family: Eras ITC;
+	color: white;
+}
+.header_div_menu
+{
+	width: 70%;
+	margin-left: 500px;
+	margin-top: 50px;
+	height: 50px;
+}
+.header_div_table
+{
+	width: 35%;
+	text-decoration: none;
+	font-family:Eras ITC;
+	font-size: 20px;
+	margin-left: 600px;
+	margin-top: 7px;
+	color: white;
+}
+
+
+.data_div
+{
+	margin-top: 55px;
+	height: 90px;
+	width: 1110px;
+	margin-left: 205px;
+}
+.data_div_hr
+{
+	color: black;
+	font-weight: bolder;
+	width: 30%;
+	margin-left: 390px;
+}
+.data_div_text1
+{
+	font-size: 25px;
+	font-family: Broadway;
+	margin-left: 470px;
+}
+.data_div_text2
+{
+	font-size: 25px;
+	font-family: Broadway;
+	margin-left: 460px;
+}
+.data_div_hr2
+{
+	color: black;
+	font-weight: bolder;
+	width: 30%;
+	margin-left: 390px;
+}
+.data_div_content
+{
+	height: 300px;
+	width: 1110px;
+	margin-left: 205px;
+}
+.content_table
+{
+	
+	width: 100%;
+	height: 300px;
+}
+.new_song_1
+{
+	width: 23%;
+	margin-left: 5px;
+}
+.new_song_img:hover
+{
+	width: 100%;
+	height: 275px;
+	border-radius: 200px;
+}
+.new_song_img
+{
+	width: 100%;
+	height: 295px;
+	display: block;
+}
+.new_song_1_div hover .new_artist_overlay
+{
+	opacity: 0.8;
+}
+.new_song_1_div
+{
+	
+	width: 100%;
+	height: 295px;
+	position: relative;
+}
+.new_song_2
+{
+	width: 23%;
+	margin-left: 5px;
+}
+.new_song_img2:hover
+{
+	width: 100%;
+	height: 275px;
+	border-radius: 200px;
+}
+.new_song_img2
+{
+	width: 100%;
+	height: 295px;
+}
+.new_song_2_div
+{
+	width: 97%;
+	height: 295px;
+	margin-left: 10px;
+}
+.new_song_3
+{
+	width: 23%;
+	margin-left: 5px;
+}
+.new_song_3_div
+{
+	width: 97%;
+	height: 295px;
+	margin-left: 10px;
+}
+.new_song_4
+{
+	width: 23%;
+	margin-left: 5px;
+}
+
+.new_song_4_div
+{
+	width: 97%;
+	height: 295px;
+	margin-left: 10px;
+}
+.aritst_text
+{
+	text-align: center;
+	font-size: 21px;
+	font-family: Nueva Std;
+	font-style: italic;
+	font-weight: bold;
+	margin-top: 15px;
+}
+/*  -----------------------------      foooter css      ----------------------------------------*/
+.footer_div
+{
+	width: 100%;
+	height: 80px;
+	float: left;
+	background: linear-gradient(to top left, #816796 0%, #b662a1 65%);
+}
+.f_ul
+{
+	width: 100%;
+	padding-left: 630px;
+	margin-top: 0px;
+	padding-top: 10px;
+}
+.f_li
+{
+	display: inline;
+}
+.footer_content
+{
+	width: 100%;
+	height: 600px;
+	/*background-color: #f2f2f2;*/
+
+}
+.footer_content_1
+{
+	width: 45%;
+	height: 500px;
+
+}
+.footer_head_2
+{
+	width:30%;
+	margin-top: 30px;
+	float: left; 
+	margin-left: 120px;
+}
+.footer_contact_head_2_tbl
+{
+	width: 90%;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+.footer_in
+{
+	width: 60%;
+	margin-top: 7px;
+	border-left: 3px solid purple;
+	border-right: none;
+	border-top: none;
+	border-bottom: none;
+	font-family: Adobe Heiti Std;
+	font-size: 12px;
+	font-weight: lighter;
+	height: 30px;
+}
+.footer_in_h1
+{
+	font-family:Century Gothic;
+	font-weight: lighter;
+	font-size:30px;
+}
+.footer_in_btn
+{
+	font-family: Adobe Heiti Std;
+	font-size: 12px;
+	font-weight: lighter;
+	height: 40px;
+	width: 61%;
+	margin-top: 10px;
+	background: linear-gradient(to top left, #816796 0%, #b662a1 65%);
+	color: white;
+}
+
+
+
+.footer_h1
+{
+	font-family:Century Gothic;
+	font-size:32px;
+	font-weight: lighter;
+	margin-left: 20px;
+	margin-top: 5px;
+}
+.footer_td_1
+{
+	
+}
+.footer_td_p
+{
+	margin-bottom: 5px;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: Maiandra GD;
+}
+.footer_td_p1
+{
+	margin-bottom: 5px;
+	font-weight: bold;
+	margin-top: -1px;
+	font-size: 20px;
+	font-family: Maiandra GD;
+}
+.footer_td_2
+{
+	font-family: Ink Free;
+	font-size: 15px;
+	height: 120px;
+
+}
+.footer_img
+{
+	width: 60%;
+	margin-top: -25px;
+	margin-left: 18px;
+}
+.footer_table
+{
+	margin-top: 30px;
+	margin-left: 50px;
+}
+.footer_head_1
+{
+	
+	float: left;
+	margin-top: 30px;
+	margin-left: 270px;
+}
+.footer_ul
+{
+	
+	margin-top: 70px;
+	margin-left: 130px;
+
+}
+.footer_ul li
+{
+	font-family: Adobe Heiti Std;
+	font-size: 12px;
+	font-weight: lighter;
+	margin-top: 5px;
+	text-decoration: none;
+	color: black;
+}
+div.error
+{	
+	color:#FFF;
+	background: linear-gradient(to top left, #f7dff6 1%, #c21460 66%);
+	width:320px;
+	
+	vertical-align:middle;
+	padding:3px;
+	border-radius:5px 5px 5px 5px;
+	opacity: 0.8;
+    filter: alpha(opacity=50);
+}
+.footer_form
+{
+	margin-left: 100px;
+}
+/* ================  Album css =====================*/
+.album_img
+{
+	margin-left: 550px;
+}
+.album_text
+{
+	margin-left: 100px;
+	font-family: Maiandra GD;
+	font-size: 30px;
+}
